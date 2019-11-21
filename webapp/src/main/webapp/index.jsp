@@ -5,10 +5,5 @@
 <h2> Glad to see you here  Swamy </h2>
 <h2> Glad to see you here  Swamy </h2>
 <h2> Glad to see you here  Swamy </h2>
-<h2> Glad to see you here  Satish </h2>
-<h2> Glad to see you here  Satish </h2>
-<h2> Glad to see you here  Satish </h2>
-<h2> Glad to see you here  Satish </h2>
-
-
+<h6> upto ansible integration completed</h6>
 
